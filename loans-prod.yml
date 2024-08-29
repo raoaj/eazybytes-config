@@ -1,8 +1,8 @@
-build:
+reshbuild:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related prod APIs "
+  message: "Hey, welcome to EazyBank loans related refresh prod APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
